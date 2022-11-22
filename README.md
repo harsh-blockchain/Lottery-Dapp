@@ -3,8 +3,11 @@ Decentralized Lottery Dapp
 Tech Used
 
 Contract Interaction - Ether.js
+
 Frontend - Nextjs
+
 Backend - Truffle
+
 and some other react libraries.....
 
 Ui and part of smart contract refrence - Credit Sonny Sangha
